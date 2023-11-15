@@ -24,7 +24,8 @@ This web calculator is built using HTML, CSS, and JavaScript. It provides a user
 
 
 ## Screenshots
-![Screenshot](Calculator/calculatorImage.PNG)
+![calculatorImage](https://github.com/prince-nwofor/web-calculator/assets/89349779/caa59d3f-acea-4efe-8909-49ed5e539ed7)
+
 
 
 ## How to Use
