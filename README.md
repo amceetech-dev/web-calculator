@@ -6,7 +6,7 @@ A simple web calculator that performs basic arithmetic operations.
 - [Overview](#overview)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Screenshots](#screenshots)
+- [Screenshot](#screenshots)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
 
@@ -24,11 +24,11 @@ This web calculator is built using HTML, CSS, and JavaScript. It provides a user
 
 
 ## Screenshots
-![Screenshot 1](insert_screenshot1_link_here)
-![Screenshot 2](insert_screenshot2_link_here)
+![Screenshot](Calculator/calculatorImage.PNG)
+
 
 ## How to Use
-1. Clone the repository: `git clone https://github.com/your-username/web-calculator.git`
+1. Clone the repository: `git clone https://github.com/prince-nwofor/web-calculator.git`
 2. Open `index.html` in your web browser.
 
 ## Contributing
